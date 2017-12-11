@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://lucaspax.github.io/blog/"/>
   <updated>2017-12-11T00:11:41.415Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://lucaspax.github.io/blog/</id>
   
   <author>
     <name>Lucas Pax</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>first-post</title>
-    <link href="http://yoursite.com/2017/12/10/first-post/"/>
-    <id>http://yoursite.com/2017/12/10/first-post/</id>
+    <link href="https://lucaspax.github.io/blog/2017/12/10/first-post/"/>
+    <id>https://lucaspax.github.io/blog/2017/12/10/first-post/</id>
     <published>2017-12-11T01:11:41.000Z</published>
     <updated>2017-12-11T00:11:41.415Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/10/hello-world/"/>
-    <id>http://yoursite.com/2017/12/10/hello-world/</id>
+    <link href="https://lucaspax.github.io/blog/2017/12/10/hello-world/"/>
+    <id>https://lucaspax.github.io/blog/2017/12/10/hello-world/</id>
     <published>2017-12-10T22:43:08.322Z</published>
     <updated>2017-12-10T22:43:08.322Z</updated>
     
